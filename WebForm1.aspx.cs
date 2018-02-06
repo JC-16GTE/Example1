@@ -215,4 +215,5 @@ namespace MegaChallengeCasino
             }
         }
     }
+    // Test comments two : 06/02/2018
 }
