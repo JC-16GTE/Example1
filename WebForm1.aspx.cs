@@ -6,8 +6,9 @@ using System.Web.UI;
 using System.Web.UI.WebControls;
 
 namespace MegaChallengeCasino
-{
+{    
     /*
+     * Test comments : 06/02/2018
      * Fruit Machine Simulation
      * 
      * 1 Cherry   - bet * 2
